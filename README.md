@@ -1,5 +1,6 @@
 # Small Projects. Lots of Code!
 
+- Developer of [Processor](https://github.com/Glitched519/Processor) along with its [website](https://processorbot.xyz).
 <!--
 **Glitched519/Glitched519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
