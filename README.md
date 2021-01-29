@@ -1,4 +1,4 @@
-## Small Projects. Lots of Code!
+# Small Projects. Lots of Code!
 
 <!--
 **Glitched519/Glitched519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
